@@ -1,0 +1,40 @@
+
+
+.NOTE {
+color:rgb(229, 255, 0) ;
+font-size: 20px;
+}
+
+.DISC_S {
+width: 200px;
+border-radius: 100px;
+}
+
+.div_speed{
+float: left;
+}
+
+#D_S{
+margin: 15px;
+font-size: 15px;
+}
+
+.DISC_V {
+    width: 200px;
+    border-radius: 100px;
+    }
+    
+.div_volume{
+    float: right;
+    }
+    
+#D_V{
+    margin: 15px;
+    font-size: 15px;
+    }
+
+    canvas{
+        border: 5px solid white;
+        border-radius: 20px;
+        }
+    
